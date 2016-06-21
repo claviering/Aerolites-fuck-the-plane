@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: plane - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/plane.res" /d "_DEBUG" /d "_AFXDLL" "C:\Documents and Settings\Administrator\My Documents\обть\plane\plane.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP285.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/plane.pdb" /debug /machine:I386 /out:"Debug/plane.exe" /pdbtype:sept 
+".\Debug\ChildFrm.obj"
+".\Debug\MainFrm.obj"
+".\Debug\plane.obj"
+".\Debug\planeDoc.obj"
+".\Debug\planeView.obj"
+".\Debug\StdAfx.obj"
+".\Debug\plane.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP285.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+plane.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
